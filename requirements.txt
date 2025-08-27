@@ -1,0 +1,11 @@
+streamlit
+pdfplumber
+pandas
+regex
+sentence-transformers
+rapidfuzz
+PyPDF2
+PyMuPDF
+reportlab
+beautifulsoup4
+lxml
